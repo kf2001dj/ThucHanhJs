@@ -46,7 +46,7 @@ console.log(c--)
 console.log(c)
 console.log(--c)
 
-var t = 12;
+var t = 154;
 var b = '12'
 
 document.write(t == b)
